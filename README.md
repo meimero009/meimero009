@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @meimero009
-- 👀 I’m interested in blockchain applications
+- 👋 Hi GitHubbers, I’m @meimero009
+- 👀 I’m interested in blockchain applications & services
 - 🌱 I’m currently learning what is blockchain and how it works
 - 💞️ I’m looking to collaborate on app building and services
-- 📫 How to reach me on Twitter @meimero009
+- 📫 You can reach me on Twitter: @meimero009
 
 <!---
 meimero009/meimero009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
